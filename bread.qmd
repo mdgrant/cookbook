@@ -2,6 +2,6 @@
 
 ## Isabelle's Challah {.unnumbered}
 
-![](docs/_photos/challahRecipe.png){fig-align="left"}
+![](_photos/challahRecipe.png)
 
-![](docs/_photos/challahPhotoRound.png)
+![](_photos/challahPhotoRound.png)
