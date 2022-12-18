@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Recipes from our catalogue"
+  author: "Grants"
+  date: "12/17/2022"
+  chapters:
+    - index.qmd
+    - breakfast.qmd
+    - bread.qmd
+    - references.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
