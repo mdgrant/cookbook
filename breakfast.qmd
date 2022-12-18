@@ -22,4 +22,4 @@ Cover with a plate and let stand for 30 minutes.
 
 Can put in refrigerator and warm up the next day.
 
-![](_photos/oatmealBowl.png)
+![](assets/oatmealBowl.png)
