@@ -8,11 +8,11 @@ book:
   date: "12/17/2022"
   chapters:
     - index.qmd
-    - appetizers.qmd
     - breakfast.qmd
+    - appetizers.qmd
     - dinner.qmd
-    - desert.qmd
     - bread.qmd
+    - desert.qmd
 
 # bibliography: references.bib
 
