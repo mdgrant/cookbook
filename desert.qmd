@@ -19,7 +19,8 @@
 
 Heat oven to 375 and grease a 9 or 8 inch loaf pan with butter; line with a parchment paper sling and butter the paper. Beat butter, sugar, lemon zest and vanilla extract in bowl at high speed for 3 to 4 minutes; lower to medium; add eggs one at a time. In a separate bowl, whisk flour, baking powder, salt and almond flour. Add to mixer in parts until just mixed. Fold in about 3/4 of the blueberries by hand, then scoop batter into the prepared loaf pan. Bake 15 minutes; sprinkle the remaining blueberries over the top of the cake. Bake for 5 to 20 minutes more until golden brown but still uncooked. Cover loosely with foil and bake 25 to 30 minutes more. Remove from oven and set aside in its pan to cool for 10 minutes then place on a wire rack to cool. Add lemon juice and icing sugar to a bowl and whisk together until smooth; pour over the cake and gently spread.
 
-## Chocolate Chip Cookies 
+## Chocolate Chip Cookies
+
 (based on [Jacques Torres](https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies "Orignal recipe"))
 
 -   8 1/2 ounces cake flour
@@ -51,15 +52,76 @@ Sift flours, baking soda, baking powder, and salt. Cream butter and sugars at hi
 -   4 extra-large eggs
 -   1 1/2 teaspoons vanilla extract
 -   1/4 teaspoon salt
--   6 ounces dark chocolate, preferably Belcolade 60\%, coarsely chopped
+-   6 ounces dark chocolate, preferably Belcolade 60%, coarsely chopped
 -   1 cup unsalted butter, cut into pieces
 -   1 1/2 cup granulated sugar
 
-Preheat oven to 350 degrees (not convection). Coat the bottom and sides of a 9 by 9 inch baking pan with vegetable oil spray. Line the bottom with parchment paper, then spray parchment.
-Sift flour, cocoa powder, and baking powder into a large bowl. In a medium bowl, whisk eggs, vanilla and salt.
-Melt chocolate and butter over a double boiler and mix to combine.
-Place sugar in a large bowl and pour the melted chocolate mixture over the top. Whisk to combine. 
-Add half of the flour mixture to the chocolate, whisking gently; repeat with the second half. 
-Add egg mixture to bowl using a spatula to fold ingredients together.
-Pour batter into prepared sheet pan. 
-Bake until a slight crust appears (185 to 190 degrees, check at 20 minutes to be safe).
+Preheat oven to 350 degrees (not convection). Coat the bottom and sides of a 9 by 9 inch baking pan with vegetable oil spray. Line the bottom with parchment paper, then spray parchment. Sift flour, cocoa powder, and baking powder into a large bowl. In a medium bowl, whisk eggs, vanilla and salt. Melt chocolate and butter over a double boiler and mix to combine. Place sugar in a large bowl and pour the melted chocolate mixture over the top. Whisk to combine. Add half of the flour mixture to the chocolate, whisking gently; repeat with the second half. Add egg mixture to bowl using a spatula to fold ingredients together. Pour batter into prepared sheet pan. Bake until a slight crust appears (185 to 190 degrees, check at 20 minutes to be safe).
+
+## Casey's Pumpkin Cream Pie (extraordinary)
+
+**Crust**
+
+-   1 1/2 cups graham cracker crumbs (fresh crushed)
+-   1/2 cup butter, melted
+-   1/2 cup brown sugar
+-   Spices of Choice
+-   Cinnamon, Nutmeg, Cloves
+
+**Filling**
+
+-   1 1/8 cup whole milk 
+-   1 3/4 cup heavy whipping cream (Separated, 1 cup and 3/4 cup) 
+-   1 tbs vanilla extract 
+-   4 egg yolks 
+-   1/2 cup, plus a bit extra, of sugar 
+-   1/4 tsp kosher salt 
+-   6 oz cream cheese, room temp 
+-   1 packet (~ a little less than 1 tbs) gelatin 
+-   1/2 cup white chocolate chips 
+-   1 cup pumpkin butter 
+-   Spices of Choice - Cinnamon, Nutmeg, Cloves  
+
+**Topping - Whipped cream with cinnamon**
+
+-   1 cup heavy whipping cream 
+-   1/8 cup of powdered sugar, maybe a bit more 
+-   1/2 tsp vanilla extract
+
+**For Crust**
+
+Mix all ingredients and press into a pie or tart tin, bake at 350 for 10 minutes or until golden and set - allow to cool fully before making filling
+
+**For Filling**
+
+Prep - Add while chocolate, pumpkin butter, and spices of choice to medium bowl that will fit at least 4 cups, bloom gelatin in a small bowl by sprinkling it over some water (\~1 tbs?), whisk together egg yolks and sugar until light and ribbony.
+
+Combine whole milk, 1 cup of the heavy whipping cream, vanilla extract, and salt in a saucepan - warm to a light simmer.
+
+Ladle (one a time) the warm milk mixture into the egg mixture, whisking between each ladle to temper the eggs - once a few labels have been added and incorporated, combine this mixture with the remaining milk mixture in the sauce pot.
+
+Cook this mixture to 175, stirring constantly until it coat the back of a spoon.
+
+Pour the warm mixture over the pumpkin butter/while chocolate combo and whisk until incorporated.
+
+Allow the mixture to cool slightly, then add the bloomed gelatin and whisk to combine.
+
+Cool mix to chilled over ice/water bath, whisking continuously.
+
+In stand mixer - whip cream cheese, scrape down the sides and add the remaining heavy whipping cream and whip until combined and fluffy (whipped cream/cream cheese mixture).
+
+Add the cooled filling to the stand mixer bowl and whip until combined (I originally tried to fold in the whipped cream/cream cheese mixture for extra air but it was giving me trouble, so I just whipped it all together to get it smooth - I actually think if you experimented with whipping this a bit longer the texture might get a bit lighter too).
+
+Pour into finished crust and place in the fridge until set.
+
+Top Whip all ingredients together until desired consistency, dollop or pipe onto set pie, and sprinkle with cinnamon.
+
+Serve Can serve right from the fridge, texture gets a bit smoother as the chill comes off a bit if you want to leave out at room temperature a bit before serving.
+
+**Note from From Casey**
+
+I wanted to write this down before I forgot, and now that I have some of what I did looks a little crazy haha - ultimately I basically made the standard creme anglaise base (so close to what you would do for a custard or pudding anyway) I use for making ice cream and essentially added various things to thicken/set it further (gelatin, white chocolate chips, cream cheese, I also think the pumpkin spread I had had some pectin in it so may have further set it too) and then added some whipped cream in the filling to try and lighten it up a bit as well.
+
+The filling ends up pretty sweet by itself so I intentionally took it easy on sweetening the whipped cream on the top to offset that. I also had a bit of leftover pie filling just from scraping the bowl so I put that in a separate small bowl to test for it being set and texture - not necessary but it was nice to have especially for the first shot and if you plan on testing with different ingredients. I think you could actually mess with the chocolate in there and do a chocolate and peanut butter (in place of the pumpkin butter) version but I'll mess around with it a bit too and let you know how it goes!
+
+Enjoy!
